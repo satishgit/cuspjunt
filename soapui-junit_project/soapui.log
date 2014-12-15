@@ -1,0 +1,3 @@
+2014-12-15 00:44:27,477 WARN  [SoapUI] Missing folder [C:\Users\satish\Desktop\cucmber poc\soapui-junit_project\soapui-junit_project\ext] for external libraries
+2014-12-15 00:44:27,918 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\satish\soapui-settings.xml]
+2014-12-15 00:44:31,234 INFO  [WsdlProject] Loaded project from [file:/C:/Users/satish/Desktop/cucmber%20poc/soapui-junit_project/soapui-junit_project/Google-Map-REST-Project-soapui-project.xml]

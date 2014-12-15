@@ -1,0 +1,650 @@
+2014-08-14 15:22:51,491 INFO  [log] Test Suite Name: periodictableSoap TestSuite
+2014-08-14 15:23:32,348 INFO  [log] Test Suite Name: periodictableSoap TestSuite
+2014-12-13 21:35:53,458 INFO  [log] Test Suite Name: periodictableSoap TestSuite
+2014-12-13 21:35:53,641 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-13 21:37:50,752 INFO  [log] 13
+2014-12-13 21:37:50,753 INFO  [log] >>>>Sat Dec 13 21:37:50 IST 2014
+2014-12-13 21:37:50,785 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-13 21:38:11,176 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-13 21:38:11,209 INFO  [log] 2014
+2014-12-13 21:38:11,209 INFO  [log] >>>>Sat Dec 13 21:38:11 IST 2014
+2014-12-13 21:38:11,293 INFO  [log] Environment is: dev
+2014-12-13 21:38:11,294 INFO  [log] Environment is: integration
+2014-12-13 21:38:11,294 INFO  [log] Environment is: staging
+2014-12-13 21:38:11,294 INFO  [log] Environment is: qa
+2014-12-13 21:38:11,294 INFO  [log] Environment is: stress
+2014-12-13 21:38:11,294 INFO  [log] Environment is: prod
+2014-12-13 21:38:11,346 INFO  [log] Three
+2014-12-13 21:38:11,347 INFO  [log] Two
+2014-12-13 21:38:11,347 INFO  [log] One
+2014-12-13 21:38:11,382 INFO  [log] {3=three, 2=two, 1=one}
+2014-12-13 21:38:11,401 INFO  [log] 3 : three
+2014-12-13 21:38:11,401 INFO  [log] 2 : two
+2014-12-13 21:38:11,401 INFO  [log] 1 : one
+2014-12-13 21:38:11,487 INFO  [log]  ------------ TESTCASE PROPERTIES -------------- 
+2014-12-13 21:38:11,490 INFO  [log] ElName : Uranium
+2014-12-13 21:38:11,490 INFO  [log] Symbol : U
+2014-12-13 21:38:11,490 INFO  [log] AtWeight : 238.03
+2014-12-13 21:38:11,490 INFO  [log] AtNum : 92
+2014-12-13 21:38:11,490 INFO  [log] BoilPoint : 4091
+2014-12-13 21:38:11,494 INFO  [log] myTC_Property : null
+2014-12-13 21:38:11,494 INFO  [log] TC Property 1 : Value - 1
+2014-12-13 21:38:11,494 INFO  [log] TC Property 2 : Value - 2
+2014-12-13 21:38:11,494 INFO  [log] TC Property 3 : Value - 3
+2014-12-13 21:38:11,494 INFO  [log]  ------------ TEST SUITE PROPERTIES --------------
+2014-12-13 21:38:11,495 INFO  [log] MyCustomProperty : null
+2014-12-13 21:38:11,495 INFO  [log] TS Property 1 : TS Prop Value - 1
+2014-12-13 21:38:11,495 INFO  [log] TS Property 2 : TS Prop Value - 2
+2014-12-13 21:38:11,496 INFO  [log] TS Property 3 : TS Prop Value - 3
+2014-12-13 21:38:11,496 INFO  [log]  ------------ PROJETC  PROPERTIES --------------
+2014-12-13 21:38:11,496 INFO  [log] inputFilePath : D:\SoapUI\projects\Demo\PeriodicTableExampleProject
+2014-12-13 21:38:11,496 INFO  [log] Project Property 1 : ProjectProp Value - 1
+2014-12-13 21:38:11,496 INFO  [log] Project Property 2 : ProjectProp Value - 2
+2014-12-13 21:38:11,497 INFO  [log] Project Property 3 : ProjectProp Value - 3
+2014-12-13 21:38:11,497 INFO  [log]  ------------ GLOBAL  PROPERTIES --------------
+2014-12-13 21:38:11,497 INFO  [log] Global Property 1 : null
+2014-12-13 21:38:11,497 INFO  [log] Global Property 2 : null
+2014-12-13 21:38:11,497 INFO  [log] Global Property 3 : null
+2014-12-13 21:38:11,513 INFO  [log] TestCase Name: ElementSpecificRequests TestCase
+2014-12-13 21:38:11,514 INFO  [log] Test Step Count: 7
+2014-12-13 21:38:11,515 INFO  [log] Test Step : Groovy Script - Java Date Class
+2014-12-13 21:38:11,515 INFO  [log] Test Step : Groovy Script - For loop
+2014-12-13 21:38:11,515 INFO  [log] Test Step : Groovy Script - Hashmap
+2014-12-13 21:38:11,516 INFO  [log] Test Step : Groovy Script - HashTable
+2014-12-13 21:38:11,516 INFO  [log] Test Step : Groovy Script - Set Properties
+2014-12-13 21:38:11,516 INFO  [log] Test Step : Groovy Script - Get Properites
+2014-12-13 21:38:11,516 INFO  [log] Test Step : Groovy Script - TestCase Details
+2014-12-13 21:38:11,517 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-13 21:38:11,517 INFO  [log] Project Name: Periodic_Table_Example_Project
+2014-12-13 21:38:32,002 INFO  [log] Actinium
+2014-12-13 21:38:32,011 INFO  [log] elementCount:112
+2014-12-13 21:38:32,012 INFO  [log] Element Name: Actinium
+2014-12-13 21:38:32,012 INFO  [log] Element Name: Aluminium
+2014-12-13 21:38:32,012 INFO  [log] Element Name: Americium
+2014-12-13 21:38:32,012 INFO  [log] Element Name: Antimony
+2014-12-13 21:38:32,012 INFO  [log] Element Name: Argon
+2014-12-13 21:38:32,012 INFO  [log] Element Name: Arsenic
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Astatine
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Barium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Berkelium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Beryllium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Bismuth
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Bohrium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Boron
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Bromine
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Cadmium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Calcium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Californium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Carbon
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Cerium
+2014-12-13 21:38:32,013 INFO  [log] Element Name: Cesium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Chlorine
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Chromium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Cobalt
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Copper
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Curcigtonium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Curium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Dysprosium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Einsteinium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Erbium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Europium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Fermium
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Flourine
+2014-12-13 21:38:32,014 INFO  [log] Element Name: Francium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Gadolinium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Gallium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Germanium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Gold
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Hafnium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Hahnium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Hassium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Helium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Holmium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Hydrogen
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Indium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Iodine
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Iridium
+2014-12-13 21:38:32,015 INFO  [log] Element Name: Iron
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Krypton
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Lanthanum
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Lawrencium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Lead
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Lithium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Lutetium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Magnesium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Manganese
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Meitnerium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Mendelevium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Mercury
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Molybdenum
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Neodymium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Neon
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Neptunium
+2014-12-13 21:38:32,016 INFO  [log] Element Name: Nickel
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Niobium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Nitrogen
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Nobelium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Osmium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Oxygen
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Palladium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Phosphorous
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Platinum
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Plutonium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Polonium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Potassium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Praseodymium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Promethium
+2014-12-13 21:38:32,017 INFO  [log] Element Name: Protactinium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Radium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Radon
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Rhenium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Rhodium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Rubidium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Ruthenium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Samarium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Scandium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Seaborgium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Selenium
+2014-12-13 21:38:32,018 INFO  [log] Element Name: Silicon
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Silver
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Sodium
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Strontium
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Sulphur
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Tantalum
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Technetium
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Telurium
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Terbium
+2014-12-13 21:38:32,019 INFO  [log] Element Name: Thallium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Thorium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Thulium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Tin
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Titanium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Tungsten
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Ununbium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Ununnilium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Unununium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Uranium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Vanadium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Xenon
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Ytterbium
+2014-12-13 21:38:32,020 INFO  [log] Element Name: Yttrium
+2014-12-13 21:38:32,021 INFO  [log] Element Name: Zinc
+2014-12-13 21:38:32,021 INFO  [log] Element Name: Zirconium
+2014-12-13 21:38:32,872 INFO  [log] ElementName :Zinc
+2014-12-13 21:38:32,874 INFO  [log] AtomicNumber :30
+2014-12-13 21:38:32,876 INFO  [log] Symbol :Zn
+2014-12-13 21:38:32,877 INFO  [log] BoilingPoint :1180
+2014-12-13 21:38:32,879 INFO  [log] Density :7140
+2014-12-13 21:38:32,913 INFO  [log] ##############################
+2014-12-13 21:38:32,913 INFO  [log] Test Step : GetAtoms - CDATA using script assertions
+2014-12-13 21:38:32,915 INFO  [log] >>>>>>>>>> 4
+2014-12-13 21:38:32,933 INFO  [log] Response SLA : VALID
+2014-12-13 21:38:32,958 INFO  [log] Not SOAP Fault : VALID
+2014-12-13 21:38:32,965 INFO  [log] XPath Match : VALID
+2014-12-13 21:38:32,970 INFO  [log] Script Assertion : VALID
+2014-12-13 21:38:32,970 INFO  [log] ##############################
+2014-12-13 21:38:32,970 INFO  [log] Test Step : GetAtom Details
+2014-12-13 21:38:32,970 INFO  [log] >>>>>>>>>> 1
+2014-12-13 21:38:32,970 INFO  [log] Script Assertion : VALID
+2014-12-13 21:38:32,971 INFO  [log] ##############################
+2014-12-13 21:38:32,971 INFO  [log] Test Step : Groovy Script
+2014-12-13 22:22:52,925 INFO  [log] Test Suite Name: periodictableSoap TestSuite
+2014-12-13 22:22:52,985 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-13 22:22:59,305 INFO  [log] 13
+2014-12-13 22:22:59,306 INFO  [log] >>>>Sat Dec 13 22:22:59 IST 2014
+2014-12-13 22:22:59,327 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-13 22:23:00,167 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-13 22:23:00,186 INFO  [log] 2014
+2014-12-13 22:23:00,186 INFO  [log] >>>>Sat Dec 13 22:23:00 IST 2014
+2014-12-13 22:23:00,217 INFO  [log] Environment is: dev
+2014-12-13 22:23:00,217 INFO  [log] Environment is: integration
+2014-12-13 22:23:00,217 INFO  [log] Environment is: staging
+2014-12-13 22:23:00,217 INFO  [log] Environment is: qa
+2014-12-13 22:23:00,217 INFO  [log] Environment is: stress
+2014-12-13 22:23:00,217 INFO  [log] Environment is: prod
+2014-12-13 22:23:00,248 INFO  [log] Three
+2014-12-13 22:23:00,248 INFO  [log] Two
+2014-12-13 22:23:00,248 INFO  [log] One
+2014-12-13 22:23:00,274 INFO  [log] {3=three, 2=two, 1=one}
+2014-12-13 22:23:00,279 INFO  [log] 3 : three
+2014-12-13 22:23:00,280 INFO  [log] 2 : two
+2014-12-13 22:23:00,280 INFO  [log] 1 : one
+2014-12-13 22:23:00,373 INFO  [log]  ------------ TESTCASE PROPERTIES -------------- 
+2014-12-13 22:23:00,376 INFO  [log] ElName : Uranium
+2014-12-13 22:23:00,377 INFO  [log] Symbol : U
+2014-12-13 22:23:00,377 INFO  [log] AtWeight : 238.03
+2014-12-13 22:23:00,377 INFO  [log] AtNum : 92
+2014-12-13 22:23:00,377 INFO  [log] BoilPoint : 4091
+2014-12-13 22:23:00,382 INFO  [log] myTC_Property : null
+2014-12-13 22:23:00,382 INFO  [log] TC Property 1 : Value - 1
+2014-12-13 22:23:00,382 INFO  [log] TC Property 2 : Value - 2
+2014-12-13 22:23:00,382 INFO  [log] TC Property 3 : Value - 3
+2014-12-13 22:23:00,382 INFO  [log]  ------------ TEST SUITE PROPERTIES --------------
+2014-12-13 22:23:00,384 INFO  [log] MyCustomProperty : null
+2014-12-13 22:23:00,384 INFO  [log] TS Property 1 : TS Prop Value - 1
+2014-12-13 22:23:00,384 INFO  [log] TS Property 2 : TS Prop Value - 2
+2014-12-13 22:23:00,384 INFO  [log] TS Property 3 : TS Prop Value - 3
+2014-12-13 22:23:00,385 INFO  [log]  ------------ PROJETC  PROPERTIES --------------
+2014-12-13 22:23:00,385 INFO  [log] inputFilePath : D:\SoapUI\projects\Demo\PeriodicTableExampleProject
+2014-12-13 22:23:00,385 INFO  [log] Project Property 1 : ProjectProp Value - 1
+2014-12-13 22:23:00,385 INFO  [log] Project Property 2 : ProjectProp Value - 2
+2014-12-13 22:23:00,386 INFO  [log] Project Property 3 : ProjectProp Value - 3
+2014-12-13 22:23:00,386 INFO  [log]  ------------ GLOBAL  PROPERTIES --------------
+2014-12-13 22:23:00,386 INFO  [log] Global Property 1 : null
+2014-12-13 22:23:00,386 INFO  [log] Global Property 2 : null
+2014-12-13 22:23:00,386 INFO  [log] Global Property 3 : null
+2014-12-13 22:23:00,408 INFO  [log] TestCase Name: ElementSpecificRequests TestCase
+2014-12-13 22:23:00,409 INFO  [log] Test Step Count: 7
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - Java Date Class
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - For loop
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - Hashmap
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - HashTable
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - Set Properties
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - Get Properites
+2014-12-13 22:23:00,410 INFO  [log] Test Step : Groovy Script - TestCase Details
+2014-12-13 22:23:00,411 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-13 22:23:00,411 INFO  [log] Project Name: Periodic_Table_Example_Project
+2014-12-13 22:23:00,842 INFO  [log] Actinium
+2014-12-13 22:23:00,851 INFO  [log] elementCount:112
+2014-12-13 22:23:00,852 INFO  [log] Element Name: Actinium
+2014-12-13 22:23:00,852 INFO  [log] Element Name: Aluminium
+2014-12-13 22:23:00,852 INFO  [log] Element Name: Americium
+2014-12-13 22:23:00,852 INFO  [log] Element Name: Antimony
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Argon
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Arsenic
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Astatine
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Barium
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Berkelium
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Beryllium
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Bismuth
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Bohrium
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Boron
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Bromine
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Cadmium
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Calcium
+2014-12-13 22:23:00,853 INFO  [log] Element Name: Californium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Carbon
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Cerium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Cesium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Chlorine
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Chromium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Cobalt
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Copper
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Curcigtonium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Curium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Dysprosium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Einsteinium
+2014-12-13 22:23:00,854 INFO  [log] Element Name: Erbium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Europium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Fermium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Flourine
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Francium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Gadolinium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Gallium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Germanium
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Gold
+2014-12-13 22:23:00,855 INFO  [log] Element Name: Hafnium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Hahnium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Hassium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Helium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Holmium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Hydrogen
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Indium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Iodine
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Iridium
+2014-12-13 22:23:00,856 INFO  [log] Element Name: Iron
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Krypton
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Lanthanum
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Lawrencium
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Lead
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Lithium
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Lutetium
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Magnesium
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Manganese
+2014-12-13 22:23:00,857 INFO  [log] Element Name: Meitnerium
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Mendelevium
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Mercury
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Molybdenum
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Neodymium
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Neon
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Neptunium
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Nickel
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Niobium
+2014-12-13 22:23:00,858 INFO  [log] Element Name: Nitrogen
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Nobelium
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Osmium
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Oxygen
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Palladium
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Phosphorous
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Platinum
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Plutonium
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Polonium
+2014-12-13 22:23:00,859 INFO  [log] Element Name: Potassium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Praseodymium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Promethium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Protactinium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Radium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Radon
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Rhenium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Rhodium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Rubidium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Ruthenium
+2014-12-13 22:23:00,860 INFO  [log] Element Name: Samarium
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Scandium
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Seaborgium
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Selenium
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Silicon
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Silver
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Sodium
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Strontium
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Sulphur
+2014-12-13 22:23:00,861 INFO  [log] Element Name: Tantalum
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Technetium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Telurium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Terbium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Thallium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Thorium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Thulium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Tin
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Titanium
+2014-12-13 22:23:00,862 INFO  [log] Element Name: Tungsten
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Ununbium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Ununnilium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Unununium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Uranium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Vanadium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Xenon
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Ytterbium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Yttrium
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Zinc
+2014-12-13 22:23:00,863 INFO  [log] Element Name: Zirconium
+2014-12-13 22:23:01,405 INFO  [log] ElementName :Zinc
+2014-12-13 22:23:01,407 INFO  [log] AtomicNumber :30
+2014-12-13 22:23:01,407 INFO  [log] Symbol :Zn
+2014-12-13 22:23:01,408 INFO  [log] BoilingPoint :1180
+2014-12-13 22:23:01,409 INFO  [log] Density :7140
+2014-12-13 22:23:01,430 INFO  [log] ##############################
+2014-12-13 22:23:01,430 INFO  [log] Test Step : GetAtoms - CDATA using script assertions
+2014-12-13 22:23:01,432 INFO  [log] >>>>>>>>>> 4
+2014-12-13 22:23:01,439 INFO  [log] Response SLA : VALID
+2014-12-13 22:23:01,454 INFO  [log] Not SOAP Fault : VALID
+2014-12-13 22:23:01,462 INFO  [log] XPath Match : VALID
+2014-12-13 22:23:01,465 INFO  [log] Script Assertion : VALID
+2014-12-13 22:23:01,465 INFO  [log] ##############################
+2014-12-13 22:23:01,466 INFO  [log] Test Step : GetAtom Details
+2014-12-13 22:23:01,466 INFO  [log] >>>>>>>>>> 1
+2014-12-13 22:23:01,466 INFO  [log] Script Assertion : VALID
+2014-12-13 22:23:01,466 INFO  [log] ##############################
+2014-12-13 22:23:01,466 INFO  [log] Test Step : Groovy Script
+2014-12-14 09:33:09,922 INFO  [log] Test Suite Name: periodictableSoap TestSuite
+2014-12-14 09:33:10,080 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:33:14,262 INFO  [log] 14
+2014-12-14 09:33:14,263 INFO  [log] >>>>Sun Dec 14 09:33:14 IST 2014
+2014-12-14 09:33:14,277 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:33:15,490 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-14 09:33:15,512 INFO  [log] 2014
+2014-12-14 09:33:15,513 INFO  [log] >>>>Sun Dec 14 09:33:15 IST 2014
+2014-12-14 09:33:15,557 INFO  [log] Environment is: dev
+2014-12-14 09:33:15,557 INFO  [log] Environment is: integration
+2014-12-14 09:33:15,558 INFO  [log] Environment is: staging
+2014-12-14 09:33:15,558 INFO  [log] Environment is: qa
+2014-12-14 09:33:15,558 INFO  [log] Environment is: stress
+2014-12-14 09:33:15,558 INFO  [log] Environment is: prod
+2014-12-14 09:33:15,598 INFO  [log] Three
+2014-12-14 09:33:15,598 INFO  [log] Two
+2014-12-14 09:33:15,598 INFO  [log] One
+2014-12-14 09:33:15,622 INFO  [log] {3=three, 2=two, 1=one}
+2014-12-14 09:33:15,627 INFO  [log] 3 : three
+2014-12-14 09:33:15,627 INFO  [log] 2 : two
+2014-12-14 09:33:15,627 INFO  [log] 1 : one
+2014-12-14 09:33:15,750 INFO  [log]  ------------ TESTCASE PROPERTIES -------------- 
+2014-12-14 09:33:15,753 INFO  [log] ElName : Uranium
+2014-12-14 09:33:15,754 INFO  [log] Symbol : U
+2014-12-14 09:33:15,754 INFO  [log] AtWeight : 238.03
+2014-12-14 09:33:15,754 INFO  [log] AtNum : 92
+2014-12-14 09:33:15,754 INFO  [log] BoilPoint : 4091
+2014-12-14 09:33:15,762 INFO  [log] myTC_Property : null
+2014-12-14 09:33:15,762 INFO  [log] TC Property 1 : Value - 1
+2014-12-14 09:33:15,762 INFO  [log] TC Property 2 : Value - 2
+2014-12-14 09:33:15,762 INFO  [log] TC Property 3 : Value - 3
+2014-12-14 09:33:15,763 INFO  [log]  ------------ TEST SUITE PROPERTIES --------------
+2014-12-14 09:33:15,763 INFO  [log] MyCustomProperty : null
+2014-12-14 09:33:15,763 INFO  [log] TS Property 1 : TS Prop Value - 1
+2014-12-14 09:33:15,763 INFO  [log] TS Property 2 : TS Prop Value - 2
+2014-12-14 09:33:15,763 INFO  [log] TS Property 3 : TS Prop Value - 3
+2014-12-14 09:33:15,764 INFO  [log]  ------------ PROJETC  PROPERTIES --------------
+2014-12-14 09:33:15,764 INFO  [log] inputFilePath : D:\SoapUI\projects\Demo\PeriodicTableExampleProject
+2014-12-14 09:33:15,764 INFO  [log] Project Property 1 : ProjectProp Value - 1
+2014-12-14 09:33:15,764 INFO  [log] Project Property 2 : ProjectProp Value - 2
+2014-12-14 09:33:15,764 INFO  [log] Project Property 3 : ProjectProp Value - 3
+2014-12-14 09:33:15,765 INFO  [log]  ------------ GLOBAL  PROPERTIES --------------
+2014-12-14 09:33:15,765 INFO  [log] Global Property 1 : null
+2014-12-14 09:33:15,765 INFO  [log] Global Property 2 : null
+2014-12-14 09:33:15,765 INFO  [log] Global Property 3 : null
+2014-12-14 09:33:15,780 INFO  [log] TestCase Name: ElementSpecificRequests TestCase
+2014-12-14 09:33:15,780 INFO  [log] Test Step Count: 7
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - Java Date Class
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - For loop
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - Hashmap
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - HashTable
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - Set Properties
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - Get Properites
+2014-12-14 09:33:15,782 INFO  [log] Test Step : Groovy Script - TestCase Details
+2014-12-14 09:33:15,783 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-14 09:33:15,783 INFO  [log] Project Name: Periodic_Table_Example_Project
+2014-12-14 09:33:16,167 INFO  [log] Actinium
+2014-12-14 09:33:16,176 INFO  [log] elementCount:112
+2014-12-14 09:33:16,177 INFO  [log] Element Name: Actinium
+2014-12-14 09:33:16,177 INFO  [log] Element Name: Aluminium
+2014-12-14 09:33:16,177 INFO  [log] Element Name: Americium
+2014-12-14 09:33:16,177 INFO  [log] Element Name: Antimony
+2014-12-14 09:33:16,177 INFO  [log] Element Name: Argon
+2014-12-14 09:33:16,178 INFO  [log] Element Name: Arsenic
+2014-12-14 09:33:16,178 INFO  [log] Element Name: Astatine
+2014-12-14 09:33:16,178 INFO  [log] Element Name: Barium
+2014-12-14 09:33:16,178 INFO  [log] Element Name: Berkelium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Beryllium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Bismuth
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Bohrium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Boron
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Bromine
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Cadmium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Calcium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Californium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Carbon
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Cerium
+2014-12-14 09:33:16,182 INFO  [log] Element Name: Cesium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Chlorine
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Chromium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Cobalt
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Copper
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Curcigtonium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Curium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Dysprosium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Einsteinium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Erbium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Europium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Fermium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Flourine
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Francium
+2014-12-14 09:33:16,183 INFO  [log] Element Name: Gadolinium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Gallium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Germanium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Gold
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Hafnium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Hahnium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Hassium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Helium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Holmium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Hydrogen
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Indium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Iodine
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Iridium
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Iron
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Krypton
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Lanthanum
+2014-12-14 09:33:16,184 INFO  [log] Element Name: Lawrencium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Lead
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Lithium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Lutetium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Magnesium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Manganese
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Meitnerium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Mendelevium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Mercury
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Molybdenum
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Neodymium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Neon
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Neptunium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Nickel
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Niobium
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Nitrogen
+2014-12-14 09:33:16,185 INFO  [log] Element Name: Nobelium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Osmium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Oxygen
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Palladium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Phosphorous
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Platinum
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Plutonium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Polonium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Potassium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Praseodymium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Promethium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Protactinium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Radium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Radon
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Rhenium
+2014-12-14 09:33:16,186 INFO  [log] Element Name: Rhodium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Rubidium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Ruthenium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Samarium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Scandium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Seaborgium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Selenium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Silicon
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Silver
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Sodium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Strontium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Sulphur
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Tantalum
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Technetium
+2014-12-14 09:33:16,187 INFO  [log] Element Name: Telurium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Terbium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Thallium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Thorium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Thulium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Tin
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Titanium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Tungsten
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Ununbium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Ununnilium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Unununium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Uranium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Vanadium
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Xenon
+2014-12-14 09:33:16,188 INFO  [log] Element Name: Ytterbium
+2014-12-14 09:33:16,189 INFO  [log] Element Name: Yttrium
+2014-12-14 09:33:16,189 INFO  [log] Element Name: Zinc
+2014-12-14 09:33:16,189 INFO  [log] Element Name: Zirconium
+2014-12-14 09:33:16,562 INFO  [log] ElementName :Zinc
+2014-12-14 09:33:16,563 INFO  [log] AtomicNumber :30
+2014-12-14 09:33:16,564 INFO  [log] Symbol :Zn
+2014-12-14 09:33:16,565 INFO  [log] BoilingPoint :1180
+2014-12-14 09:33:16,566 INFO  [log] Density :7140
+2014-12-14 09:33:16,605 INFO  [log] ##############################
+2014-12-14 09:33:16,605 INFO  [log] Test Step : GetAtoms - CDATA using script assertions
+2014-12-14 09:33:16,606 INFO  [log] >>>>>>>>>> 4
+2014-12-14 09:33:16,616 INFO  [log] Response SLA : VALID
+2014-12-14 09:33:16,635 INFO  [log] Not SOAP Fault : VALID
+2014-12-14 09:33:16,640 INFO  [log] XPath Match : VALID
+2014-12-14 09:33:16,643 INFO  [log] Script Assertion : VALID
+2014-12-14 09:33:16,643 INFO  [log] ##############################
+2014-12-14 09:33:16,643 INFO  [log] Test Step : GetAtom Details
+2014-12-14 09:33:16,643 INFO  [log] >>>>>>>>>> 1
+2014-12-14 09:33:16,643 INFO  [log] Script Assertion : VALID
+2014-12-14 09:33:16,643 INFO  [log] ##############################
+2014-12-14 09:33:16,643 INFO  [log] Test Step : Groovy Script
+2014-12-14 09:35:38,469 INFO  [log] Test Suite Name: periodictableSoap TestSuite
+2014-12-14 09:35:38,539 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:35:44,776 INFO  [log] 14
+2014-12-14 09:35:44,777 INFO  [log] >>>>Sun Dec 14 09:35:44 IST 2014
+2014-12-14 09:35:44,796 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:35:45,688 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-14 09:35:45,714 INFO  [log] 2014
+2014-12-14 09:35:45,714 INFO  [log] >>>>Sun Dec 14 09:35:45 IST 2014
+2014-12-14 09:35:45,748 INFO  [log] Environment is: dev
+2014-12-14 09:35:45,748 INFO  [log] Environment is: integration
+2014-12-14 09:35:45,748 INFO  [log] Environment is: staging
+2014-12-14 09:35:45,748 INFO  [log] Environment is: qa
+2014-12-14 09:35:45,748 INFO  [log] Environment is: stress
+2014-12-14 09:35:45,748 INFO  [log] Environment is: prod
+2014-12-14 09:35:45,779 INFO  [log] Three
+2014-12-14 09:35:45,780 INFO  [log] Two
+2014-12-14 09:35:45,780 INFO  [log] One
+2014-12-14 09:35:45,805 INFO  [log] {3=three, 2=two, 1=one}
+2014-12-14 09:35:45,813 INFO  [log] 3 : three
+2014-12-14 09:35:45,813 INFO  [log] 2 : two
+2014-12-14 09:35:45,814 INFO  [log] 1 : one
+2014-12-14 09:35:45,915 INFO  [log]  ------------ TESTCASE PROPERTIES -------------- 
+2014-12-14 09:35:45,918 INFO  [log] ElName : Uranium
+2014-12-14 09:35:45,919 INFO  [log] Symbol : U
+2014-12-14 09:35:45,919 INFO  [log] AtWeight : 238.03
+2014-12-14 09:35:45,919 INFO  [log] AtNum : 92
+2014-12-14 09:35:45,919 INFO  [log] BoilPoint : 4091
+2014-12-14 09:35:45,923 INFO  [log] myTC_Property : null
+2014-12-14 09:35:45,923 INFO  [log] TC Property 1 : Value - 1
+2014-12-14 09:35:45,923 INFO  [log] TC Property 2 : Value - 2
+2014-12-14 09:35:45,923 INFO  [log] TC Property 3 : Value - 3
+2014-12-14 09:35:45,923 INFO  [log]  ------------ TEST SUITE PROPERTIES --------------
+2014-12-14 09:35:45,925 INFO  [log] MyCustomProperty : null
+2014-12-14 09:35:45,926 INFO  [log] TS Property 1 : TS Prop Value - 1
+2014-12-14 09:35:45,926 INFO  [log] TS Property 2 : TS Prop Value - 2
+2014-12-14 09:35:45,926 INFO  [log] TS Property 3 : TS Prop Value - 3
+2014-12-14 09:35:45,926 INFO  [log]  ------------ PROJETC  PROPERTIES --------------
+2014-12-14 09:35:45,926 INFO  [log] inputFilePath : D:\SoapUI\projects\Demo\PeriodicTableExampleProject
+2014-12-14 09:35:45,927 INFO  [log] Project Property 1 : ProjectProp Value - 1
+2014-12-14 09:35:45,927 INFO  [log] Project Property 2 : ProjectProp Value - 2
+2014-12-14 09:35:45,927 INFO  [log] Project Property 3 : ProjectProp Value - 3
+2014-12-14 09:35:45,927 INFO  [log]  ------------ GLOBAL  PROPERTIES --------------
+2014-12-14 09:35:45,928 INFO  [log] Global Property 1 : null
+2014-12-14 09:35:45,928 INFO  [log] Global Property 2 : null
+2014-12-14 09:35:45,928 INFO  [log] Global Property 3 : null
+2014-12-14 09:35:45,960 INFO  [log] TestCase Name: ElementSpecificRequests TestCase
+2014-12-14 09:35:45,961 INFO  [log] Test Step Count: 7
+2014-12-14 09:35:45,962 INFO  [log] Test Step : Groovy Script - Java Date Class
+2014-12-14 09:35:45,962 INFO  [log] Test Step : Groovy Script - For loop
+2014-12-14 09:35:45,962 INFO  [log] Test Step : Groovy Script - Hashmap
+2014-12-14 09:35:45,962 INFO  [log] Test Step : Groovy Script - HashTable
+2014-12-14 09:35:45,963 INFO  [log] Test Step : Groovy Script - Set Properties
+2014-12-14 09:35:45,963 INFO  [log] Test Step : Groovy Script - Get Properites
+2014-12-14 09:35:45,963 INFO  [log] Test Step : Groovy Script - TestCase Details
+2014-12-14 09:35:45,963 INFO  [log] Test Suite Name: TestSuiteWithGroovySample
+2014-12-14 09:35:45,963 INFO  [log] Project Name: Periodic_Table_Example_Project
+2014-12-14 09:47:36,624 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:47:40,244 INFO  [log] 14
+2014-12-14 09:47:40,245 INFO  [log] >>>>Sun Dec 14 09:47:40 IST 2014
+2014-12-14 09:47:40,259 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:49:29,729 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:49:33,338 INFO  [log] 14
+2014-12-14 09:49:33,339 INFO  [log] >>>>Sun Dec 14 09:49:33 IST 2014
+2014-12-14 09:49:33,355 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:49:58,968 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:50:02,450 INFO  [log] 14
+2014-12-14 09:50:02,451 INFO  [log] >>>>Sun Dec 14 09:50:02 IST 2014
+2014-12-14 09:50:02,465 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:51:02,759 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:51:13,692 INFO  [log] 14
+2014-12-14 09:51:13,693 INFO  [log] >>>>Sun Dec 14 09:51:13 IST 2014
+2014-12-14 09:51:13,707 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:52:03,292 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 09:52:19,639 INFO  [log] 14
+2014-12-14 09:52:19,640 INFO  [log] >>>>Sun Dec 14 09:52:19 IST 2014
+2014-12-14 09:52:19,654 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 10:07:23,716 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 10:07:52,128 INFO  [log] 14
+2014-12-14 10:07:52,130 INFO  [log] >>>>Sun Dec 14 10:07:52 IST 2014
+2014-12-14 10:07:52,144 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 10:23:50,828 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
+2014-12-14 10:23:54,500 INFO  [log] 14
+2014-12-14 10:23:54,502 INFO  [log] >>>>Sun Dec 14 10:23:54 IST 2014
+2014-12-14 10:23:54,529 INFO  [log] @@@@@@@@@@ D:\SoapUI\projects\Demo\PeriodicTableExampleProject\inputdata\TestData.csv
