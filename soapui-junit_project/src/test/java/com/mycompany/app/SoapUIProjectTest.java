@@ -11,7 +11,7 @@ import com.eviware.soapui.model.testsuite.TestRunner;
 import com.eviware.soapui.model.testsuite.TestSuite;
 
 public class SoapUIProjectTest extends TestCase{
-
+//comment test
    @Test
    public void test() throws Exception {		
 //      SoapUITestCaseRunner runner = new SoapUITestCaseRunner(); 
